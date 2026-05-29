@@ -12,7 +12,7 @@ Features:
 ## Install
 
 ```bash
-git clone https://github.com/YOURNAME/fpbx-callback.git
+git clone https://github.com/tomg12345667/fpbx-callback.git
 cd fpbx-callback
 chmod +x install.sh
 sudo ./install.sh
